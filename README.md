@@ -1,5 +1,5 @@
 # :computer: Primeiro repositório
-## Para que serve? :hmm:
+## Para que serve? 
 ---
  Esse repositório foi feito para testes e para colocar meus aprendizados!
  
